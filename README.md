@@ -124,7 +124,7 @@ AI-Security-Anomaly-Detection
 
 ### Severity Distribution
 
-![Severity Distribution](screenshots/severity-disitribution.png)
+![Severity Distribution](screenshots/severity-distribution.png)
 
 ### Targeted Resources
 

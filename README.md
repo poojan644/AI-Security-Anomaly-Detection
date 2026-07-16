@@ -189,10 +189,6 @@ Dataset Preview:
 
 ![Azure RG](screenshots/azure-resource-group.png)
 
-## Azure OpenAI
-
-![Azure AI Foundry](screenshots/azure-ai-foundry.png)
-
 ---
 
 # 🎯 Results

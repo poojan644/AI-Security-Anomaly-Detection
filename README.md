@@ -191,7 +191,7 @@ Dataset Preview:
 
 ## Azure OpenAI
 
-![Azure OpenAI](screenshots/azure-openai.png)
+![Azure AI Foundry](screenshots/azure-ai-foundry.png)
 
 ---
 

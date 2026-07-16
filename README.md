@@ -25,7 +25,7 @@ This project automates anomaly detection using Machine Learning and enhances sec
 
 # 🏗️ Solution Architecture
 
-![Architecture](architecture/architecture-diagram.png)
+![Solution Architecture](architecture/architecture.png)
 
 ---
 
@@ -124,7 +124,7 @@ AI-Security-Anomaly-Detection
 
 ### Severity Distribution
 
-![Severity](screenshots/severity-distribution.png)
+![Severity Distribution](screenshots/severity-distribution.png)
 
 ### Targeted Resources
 
